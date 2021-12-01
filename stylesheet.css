@@ -1,0 +1,18 @@
+@cherset "utf-8";
+
+#red {
+    color: red ;
+}
+
+.blue{
+    color: blue;
+}
+
+.fs-25{
+    font-size: 25px;
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
